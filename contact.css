@@ -1,0 +1,33 @@
+.container{
+    max-width: 960px;
+    margin:auto;
+    width:100%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:1.5rem;
+}
+
+.contact-form h1{
+    text-align: left;
+    text-decoration: dashed;
+   color:rgb(150, 108, 53);
+   font-style: italic;
+   font-size:xx-large;
+}
+
+.contact-form h2{
+    text-align: left;
+    text-decoration: dashed;
+   color:rgb(10, 118, 18);
+   font-style: oblique;
+   font-size:large;
+}
+
+.map{
+    max-width:860px;
+    margin:auto;
+    width:280px;
+    display: grid;
+}
+
+
